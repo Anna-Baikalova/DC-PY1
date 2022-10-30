@@ -22,4 +22,3 @@ def new_diсt_(str_diсt_):
     return str_diсt_
 
 print(get_count_char(main_str))
-
